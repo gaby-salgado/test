@@ -16,6 +16,7 @@ header {
 footer {
     background-color: gray;
     color: white;
+    border: 10px red;
     border-radius: 3px;
     margin-top: 150px;
     width:100%;
@@ -27,4 +28,6 @@ footer {
     padding: 10px;
     position: absolute;
     align-items:center;
+    height: 50;
+    width: 50;
 }
